@@ -1,6 +1,0 @@
-[0223/215053:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
-[0223/215053:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
-[0223/215053:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
-[0223/215208:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
-[0223/215208:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
-[0223/215208:ERROR:crash_report_database_win.cc(562)] CreateDirectory C:\Program Files (x86)\Nolarry\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
